@@ -15,11 +15,11 @@ Este é um projeto de uma Lista de Tarefas desenvolvido com HTML, CSS, JavaScrip
 
 ## Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
+- ![HTML](https://fontawesome.com/icons/html5?f=brands&s=solid) HTML
+- ![CSS](https://fontawesome.com/icons/css3-alt?f=brands&s=solid) CSS
+- ![JavaScript](https://fontawesome.com/icons/js?f=brands&s=solid) JavaScript
+- ![PHP](https://fontawesome.com/icons/php?f=brands&s=solid) PHP
+- ![MySQL](https://www.flaticon.com/br/icone-gratis/mysql_274439?term=mysql&page=1&position=2&origin=search&related_id=274439) MySQL
 
 ## Pré-requisitos
 
